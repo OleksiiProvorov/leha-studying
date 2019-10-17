@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -122.51,
+    "lat": 37.53
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 284.21,
+    "pressure": 1015,
+    "humidity": 71,
+    "temp_min": 282.04,
+    "temp_max": 286.15
+  },
+  "visibility": 16093,
+  "wind": {
+    "speed": 2.6,
+    "deg": 290
+  },
+  "clouds": {
+    "all": 1
+  },
+  "dt": 1570090936,
+  "sys": {
+    "type": 1,
+    "id": 5817,
+    "message": 0.0113,
+    "country": "US",
+    "sunrise": 1570111622,
+    "sunset": 1570153856
+  },
+  "timezone": -25200,
+  "id": 0,
+  "name": "Moss Beach",
+  "cod": 200
+}
