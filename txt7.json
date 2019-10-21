@@ -1,0 +1,26 @@
+[
+  {
+    "name": "lol",
+    "weight": "73",
+    "age": "22",
+    "height": "174"
+  },
+  {
+    "name": "pol",
+    "weight": "93",
+    "age": "23",
+    "height": "180"
+  },
+  {
+    "name": "max",
+    "weight": "120",
+    "age": "30",
+    "height": "193"
+  },
+  {
+    "name": "pol",
+    "weight": "100",
+    "age": "34",
+    "height": "192"
+  }
+]
